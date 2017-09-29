@@ -1,0 +1,11 @@
+﻿           <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<authResponse>
+            <amount>2500</amount>
+            <echo>Echo Bilgisi</echo>
+            <hash>yO5ACnF9FpsiV2/WBRRsDEBDRt8=</hash>
+            <mode>T</mode>
+            <orderId>b3091d88-6320-4446-be6c-7a1f8e6e73c7</orderId>
+            <publicKey>ABVQ03C77WPTODQN</publicKey>
+            <result>1</result>
+            <transactionDate>2014-01-03 21:08:51</transactionDate>
+</authResponse>

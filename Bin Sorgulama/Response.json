@@ -1,0 +1,16 @@
+{
+    "bankId": 67,
+    "bankName": "Yapı kredi",
+    "cardFamilyName": "WORLD",
+    "supportsInstallment": 0,
+    "supportedInstallments": [
+        1
+    ],
+    "type": 1,
+    "serviceProvider": 2,
+    "result": 1,
+    "cardThreeDSecureMandatory": 0,
+    "merchantThreeDSecureMandatory": 0,
+    "cvcMandatory": 0,
+    "businessCard": 0
+}

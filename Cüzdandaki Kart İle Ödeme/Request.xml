@@ -1,0 +1,61 @@
+﻿            <?xml version="1.0" encoding="UTF-8" ?>
+<auth>
+            <cardOwnerName></cardOwnerName>
+            <cardNumber></cardNumber>
+            <cardExpireMonth></cardExpireMonth>
+            <cardExpireYear></cardExpireYear>
+            <cardCvc></cardCvc>
+            <cardId>0017Wg1W2SZQdDHRD9c5FT3u+SCQ/KuT33lRmpncD2zSaU=</cardId>
+            <userId>123456</userId>        
+            <installment>1</installment>
+            <threeD>false</threeD>
+            <orderId>b3091d88-6320-4446-be6c-7a1f8e6e73c7</orderId>
+            <echo>Echo Bilgisi</echo>
+            <amount>2500</amount>
+            <mode>T</mode>
+            <products>
+            <product>
+            <productCode>Product Code 1</productCode>
+            <productName>Product Name 1</productName>
+            <quantity>1</quantity>
+            <price>1500</price>
+            </product>
+            <product>
+            <productCode>Product Code 2</productCode>
+            <productName>Product Name 2</productName>
+            <quantity>1</quantity>
+            <price>1000</price>
+            </product>
+            </products>
+            <purchaser>
+            <name>Murat</name>
+            <surname>Kaya</surname>
+            <email>murat@kaya.com</email>
+            <clientIp>123.58.7.4</clientIp>
+            <birthDate>1976-07-11</birthDate>
+            <gsmNumber>5881231212</gsmNumber>
+            <tcCertificate>1234567890</tcCertificate>
+            <invoiceAddress>
+            <name>Murat</name>
+            <surname>Kaya</surname>
+            <address>Mevlüt Pehlivan Mah. Multinet Plaza Şişli</address>
+            <zipcode>34782</zipcode>
+            <city>34</city>
+            <tcCertificate>12345678901</tcCertificate>
+            <country>tr</country>
+            <taxNumber>123456890</taxNumber>
+            <taxOffice>Şişli</taxOffice>
+            <companyName>iPara</companyName>
+            <phoneNumber>2123886600</phoneNumber>
+                    </invoiceAddress>
+            <shippingAddress>
+            <name>Murat</name>
+            <surname>Kaya</surname>
+            <address>Mevlüt Pehlivan Mah. Multinet Plaza Şişli</address>
+            <zipcode>34782</zipcode>
+            <city>34</city>
+            <country>tr</country>
+            <phoneNumber>2123886600</phoneNumber>
+            </shippingAddress>
+            </purchaser>
+</auth>

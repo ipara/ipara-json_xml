@@ -1,0 +1,33 @@
+{
+  "result": "1",
+  "cards": [
+  {
+      "cardId":" 00179cLjXNFg0WL0J6mFqxbww==","
+      "maskNumber":" 454360******5659"
+      "alias": "Maaþ Kartým",
+      "cardFamilyName ": "BONUS",
+      "bankId ": "8",
+      "bankName ": "GARANTÝ",
+      "supportsInstallment ": "1",
+      "supportedInstallments":[1,2,3,4,5,6,7,8,9,10,11,12],
+      "type ": "2"
+      "serviceProvider":" VISA"
+      "threeDSecureMandatory":"1"
+      "cvcMandatory":" 0"
+    },
+    {
+      "cardId":" 89652FaEQERYHcasdSW6mOpre134==","
+      "maskNumber":" 665785******1345"
+      "alias": "Ek Kartým",
+      "cardFamilyName ": "BONUS",
+      "bankId ": "8",
+      "bankName ": "ÞEKERBANK",
+      "supportsInstallment ": "1",
+      "supportedInstallments":[1,2,3,4,5,6,7,8,9,10,11,12],
+      "type": "2"
+      "serviceProvider":" MASTERCARD"
+      "threeDSecureMandatory":"1"
+      "cvcMandatory":" 0"
+    },
+  ]
+}
