@@ -1,3 +1,3 @@
-﻿## ipara-json_xml servis girdi ve çıktıları
+﻿# İpara servis girdi ve çıktıları
  
- # Servisleri daha iyi anlayabilmek adına bu girdi ve çıktıları inceleyebilirsiniz. 
+ ## Servisleri daha iyi anlayabilmek adına bu girdi ve çıktıları inceleyebilirsiniz. 
