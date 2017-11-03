@@ -4,7 +4,7 @@
 
 ## Kullanım
 
-[iPara geliştirici merkezine](http://dev.ipara.com.tr) üye olmalısınız. Üye olduktan sonra private key ve public key e ihtiyacınız olacak. Kendi projenizde ilgili yerlere yazarak saklamanız ve kullanmanız gereklidir. 
+iPara servislerini kullanabilmek için [iPara'ya](http://www.ipara.com.tr) üye olmalısınız. Üye olduktan sonra iPara sizinle private ve public keylerinizi paylaşacaktır. Paylaşılan bu anahtarları kendi projenizde ilgili yerlere yazarak saklamanız ve kullanmanız gerekmektedir. 
 
 ## Önemli Notlar
 
