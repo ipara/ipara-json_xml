@@ -7,7 +7,7 @@
 			"alias": "Maaş Kartım",
 			"cardFamilyName ": "BONUS",
 			"bankId ": "8",
-			"bankName ": "GARANT�",
+			"bankName ": "GARANTİ",
 			"supportsInstallment ": "1",
 			"supportedInstallments": [
 				1,
@@ -34,7 +34,7 @@
 			"alias": "Ek Kartım",
 			"cardFamilyName ": "BONUS",
 			"bankId ": "8",
-			"bankName ": "�EKERBANK",
+			"bankName ": "ŞEKERBANK",
 			"supportsInstallment ": "1",
 			"supportedInstallments": [
 				1,
