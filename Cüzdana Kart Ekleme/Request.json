@@ -1,4 +1,4 @@
-﻿  {
+{
       "userId":"23956",
       "cardOwnerName":"Ahmet Yıldız",
       "cardNumber":"1234123412341234",
@@ -6,4 +6,4 @@
       "cardExpireMonth":"12",
       "cardExpireYear ": "20",
       "clientIp ": "127.0.0.1"
-    }
+}
