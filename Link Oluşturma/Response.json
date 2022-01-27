@@ -1,0 +1,7 @@
+{
+    "amount": "1000",
+    "link": "https://portaltest.ipara.com/faces/payment/transaction_link_payment.jsf?linkToken=00751fsX2wKfUq4yu1sH7pg0w%3D%3D",
+    "linkPaymentId": "00721Kt5g646bQO1QzXn6mreg==",
+    "result": "1",
+    "responseMessage": "Ödeme linki başarı ile gönderilmiştir."
+  }

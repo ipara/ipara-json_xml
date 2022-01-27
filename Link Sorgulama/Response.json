@@ -1,0 +1,59 @@
+{
+    "linkPaymentRecordList": [
+      {
+        "amount": "1000",
+        "creationDate": "2022-01-27 10:37:24",
+        "email": "mail@example.com",
+        "gsm": "5881231212",
+        "linkId": "00721Kt5g646bQO1QzXn6mreg==",
+        "linkState": "99",
+        "name": "Müşteri Ad",
+        "surname": "Müşteri Soyad"
+      },
+      {
+        "amount": "1000",
+        "creationDate": "2022-01-27 10:40:04",
+        "email": "mail@example.com",
+        "gsm": "5881231212",
+        "linkId": "0078YLZhCkXq2EOntPa0jPlWg==",
+        "linkState": "2",
+        "name": "Müşteri Ad",
+        "surname": "Müşteri Soyad"
+      },
+      {
+        "amount": "1000",
+        "creationDate": "2022-01-27 10:40:39",
+        "email": "mail@example.com",
+        "gsm": "5881231212",
+        "linkId": "007Bk8nm5lWXHICFkOiE55WJA==",
+        "linkState": "2",
+        "name": "Müşteri Ad",
+        "surname": "Müşteri Soyad"
+      },
+      {
+        "amount": "1000",
+        "creationDate": "2022-01-27 10:46:03",
+        "email": "mail@example.com",
+        "gsm": "5881231212",
+        "linkId": "007ruBMMw4WpXqHoNpD4TWcHw==",
+        "linkState": "99",
+        "name": "Müşteri Ad",
+        "surname": "Müşteri Soyad"
+      },
+      {
+        "amount": "1000",
+        "creationDate": "2022-01-27 10:49:32",
+        "email": "mail@example.com",
+        "gsm": "5881231212",
+        "linkId": "007i8xRnJLptQOi6vComZMhzQ==",
+        "linkState": "2",
+        "name": "Müşteri Ad",
+        "surname": "Müşteri Soyad"
+      }
+    ],
+    "pageIndex": "1",
+    "pageSize": "5",
+    "pageCount": "1",
+    "result": "1",
+    "responseMessage": "Ödeme Linki listeme işlemi sonuçları başarıyla gönderildi."
+  }
