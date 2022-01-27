@@ -1,0 +1,10 @@
+{
+    "email": "mail@example.com",
+    "gsm": "",
+    "startDate": "2022-01-01 00:00:00",
+    "endDate": "2022-01-30 23:59:59",
+    "pageSize": "5",
+    "pageIndex": "1",
+    "clientIp": "127.0.0.1"
+  }
+ 
