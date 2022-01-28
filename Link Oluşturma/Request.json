@@ -1,0 +1,17 @@
+{
+    "name": "Müşteri Ad",
+    "surname": "Müşteri Soyad",
+    "tcCertificate": "",
+    "taxNumber": "",
+    "email": "mail@example.com",
+    "gsm": "5881231212",
+    "amount": "1000",
+    "threeD": "true",
+    "expireDate": "2022-01-28 23:59:59",
+    "installmentList": [
+      2
+    ],
+    "sendEmail": "true",
+    "commissionType": "1",
+    "clientIp": "127.0.0.1"
+  }
